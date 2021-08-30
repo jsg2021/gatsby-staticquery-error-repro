@@ -1,0 +1,7 @@
+node_modules/
+public/
+*.log
+.cache/
+.eslintcache
+.gatsby-context.js
+gatsby-starter-lumen.iml

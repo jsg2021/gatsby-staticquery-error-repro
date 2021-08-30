@@ -1,0 +1,21 @@
+{
+  "private": true,
+  "starter-name": "gatsby-starter-minimal-blog",
+  "scripts": {
+    "build": "gatsby build",
+    "develop": "gatsby develop",
+    "start": "gatsby develop",
+    "serve": "gatsby serve",
+    "clean": "gatsby clean"
+  },
+  "dependencies": {
+    "gatsby-plugin-disqus": "^1.2.2",
+    "gatsby-plugin-google-analytics": "^3.10.0",
+    "gatsby-plugin-manifest": "^3.10.0",
+    "gatsby-plugin-netlify": "^3.10.0",
+    "gatsby-plugin-offline": "^4.10.0",
+    "gatsby-plugin-sitemap": "^4.6.0",
+    "gatsby-theme": "jsg2021/gatsby-theme",
+    "gatsby": "^3.10.2"
+  }
+}
