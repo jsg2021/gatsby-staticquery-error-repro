@@ -9,13 +9,12 @@
     "clean": "gatsby clean"
   },
   "dependencies": {
-    "gatsby-plugin-disqus": "^1.2.2",
-    "gatsby-plugin-google-analytics": "^3.10.0",
-    "gatsby-plugin-manifest": "^3.10.0",
-    "gatsby-plugin-netlify": "^3.10.0",
-    "gatsby-plugin-offline": "^4.10.0",
-    "gatsby-plugin-sitemap": "^4.6.0",
+    "gatsby-plugin-disqus": "^1.2.3",
+    "gatsby-plugin-google-analytics": "^4.2.0",
+    "gatsby-plugin-manifest": "^4.2.0",
+    "gatsby-plugin-netlify": "^3.14.0",
+    "gatsby-plugin-offline": "^5.2.0",
     "gatsby-theme": "jsg2021/gatsby-theme#16d8c37f8a3b5064d0a22fd6ca2fb649f6d8094d",
-    "gatsby": "^3.10.2"
+    "gatsby": "^4.2.0"
   }
 }
