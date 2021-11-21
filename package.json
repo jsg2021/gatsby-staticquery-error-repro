@@ -15,7 +15,7 @@
     "gatsby-plugin-netlify": "^3.10.0",
     "gatsby-plugin-offline": "^4.10.0",
     "gatsby-plugin-sitemap": "^4.6.0",
-    "gatsby-theme": "jsg2021/gatsby-theme",
+    "gatsby-theme": "jsg2021/gatsby-theme#16d8c37f8a3b5064d0a22fd6ca2fb649f6d8094d",
     "gatsby": "^3.10.2"
   }
 }
